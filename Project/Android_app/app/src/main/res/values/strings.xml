@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Biometric Attendance</string>
+    <string name="title_activity_drawer_main">drawer_mainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="newadmin">Add New Admin</string>
+
+    <string name="employee_details">Employee Details</string>
+    <string name="admin_details">Admin Details</string>
+    <string name="addnew_admin">Add New Admin</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="change_pass">Change Your Password</string>
+
+</resources>

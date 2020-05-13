@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_markattendance"
+            android:icon="@drawable/ic_menu_markattendence"
+            android:title="Mark Attendance" />
+        <item
+            android:id="@+id/nav_newemployee"
+            android:icon="@drawable/ic_menu_addemployee"
+            android:title="Add New Student" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_removeempbio"
+            android:icon="@drawable/ic_menu_removebiometric"
+            android:title="Remove Student Biometrics" />
+        <item
+            android:id="@+id/nav_newadmin"
+            android:icon="@drawable/ic_menu_addadmin"
+            android:title="Add New Admin" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_dialog_logout"
+            android:title="Logout" />
+    </group>
+</menu>

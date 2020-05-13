@@ -1,0 +1,173 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.mark_attendance.mark_attendance.profileFragment">
+
+
+
+    <TableLayout
+        android:id="@+id/table_layout_profile"
+        android:orientation="vertical"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:stretchColumns="1">
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/fname_label_profile"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="First Name:"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/fname_data_profile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:textAlignment="textStart"
+                android:textSize="24sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/lname_edittext_profile"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Last Name: "
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/lname_data_profile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:textAlignment="textStart"
+                android:textSize="24sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/email_edittext_profile"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Email-ID: "
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/email_data_profile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:textAlignment="textStart"
+                android:textSize="24sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/dob_edittext_profile"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Date of Birth: "
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/dob_data_profile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:textAlignment="textStart"
+                android:textSize="24sp" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/gender_edittext_profile"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="Gender: "
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/gender_data_profile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:textAlignment="textStart"
+                android:textSize="24sp" />
+        </TableRow>
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/dept_edittext_profile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Institute"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/dept_data_profile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:textAlignment="textStart"
+                android:textSize="24sp" />
+        </TableRow>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/editdetails_btn_profile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:layout_margin="10dp"
+                android:textColor="@color/textColor"
+                android:background="@drawable/rounded_corner_button"
+                android:text="Edit Details" />
+
+            <Button
+                android:id="@+id/changepass_btn_profile"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:textColor="@color/textColor"
+                android:background="@drawable/rounded_corner_button"
+                android:text="Change Password" />
+        </LinearLayout>
+    </TableLayout>
+
+</ScrollView>

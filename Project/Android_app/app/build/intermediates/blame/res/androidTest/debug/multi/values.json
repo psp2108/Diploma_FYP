@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\ActualSensorConfiguration\\Aritro\\Mark_attendance v2.2\\Mark_attendance\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Pratik\\.android\\build-cache\\7b6a8eeb06e3ee690a5ec932f9ab0cae4a6cca4c\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

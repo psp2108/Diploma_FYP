@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_57cc7cd010a0d74c422b7a9cf53b41529fdd8f70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="714430641a2d9b327734512de75e7049afe4a8df">
+        <dex dex="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_557977548552f79bf00e702b7b304dfa43ea5792\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\libs\activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_3bd13c7797abbfe140b412149e7c65c0a618d7ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\libs\mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_00a5c84a19056502306d778bcf646b12b37f2843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\libs\additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="F:\ActualSensorConfiguration\Aritro\Mark_attendance v2.2\Mark_attendance\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_811a2df460dfc7d2157f6b690f302a9b3d55f743\classes.dex" />
+    </item>
+
+</items>

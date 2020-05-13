@@ -1,0 +1,7 @@
+#Tue Oct 31 19:52:24 IST 2017
+base.0=F\:\\ActualSensorConfiguration\\Aritro\\Mark_attendance v2.2\\Mark_attendance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_57cc7cd010a0d74c422b7a9cf53b41529fdd8f70
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\ActualSensorConfiguration\\Aritro\\Mark_attendance v2.2\\Mark_attendance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_557977548552f79bf00e702b7b304dfa43ea5792\\classes.dex
+base.1=F\:\\ActualSensorConfiguration\\Aritro\\Mark_attendance v2.2\\Mark_attendance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_557977548552f79bf00e702b7b304dfa43ea5792
+file.0=F\:\\ActualSensorConfiguration\\Aritro\\Mark_attendance v2.2\\Mark_attendance\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_57cc7cd010a0d74c422b7a9cf53b41529fdd8f70\\classes.dex
